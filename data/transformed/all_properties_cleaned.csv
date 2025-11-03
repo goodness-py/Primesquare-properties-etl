@@ -1,0 +1,151 @@
+id,formatted_address,city,state,zip_code,latitude,longitude,property_type,bedrooms,bathrooms,square_footage,lot_size,year_built,source_city
+"5509-Roanwood,-San-Antonio,-TX-78244","5509 Roanwood, San Antonio, TX 78244",San Antonio,TX,78244,29.477359,-98.349687,Multi-Family,4.0,2.0,1973.0,,1985.0,San_Antonio
+"5528-Lochmoor,-San-Antonio,-TX-78244","5528 Lochmoor, San Antonio, TX 78244",San Antonio,TX,78244,29.477808,-98.350542,Single Family,2.0,1.5,912.0,,,San_Antonio
+"5523-Lochmoor,-Apt-2,-San-Antonio,-TX-78244","5523 Lochmoor, Apt 2, San Antonio, TX 78244",San Antonio,TX,78244,29.477526,-98.350809,Multi-Family,2.0,1.0,800.0,8756.0,1984.0,San_Antonio
+"5721-Lochmoor,-San-Antonio,-TX-78244","5721 Lochmoor, San Antonio, TX 78244",San Antonio,TX,78244,29.476801,-98.350547,Apartment,2.0,2.0,,,,San_Antonio
+"5519-Lochmoor,-Apt-2,-San-Antonio,-TX-78244","5519 Lochmoor, Apt 2, San Antonio, TX 78244",San Antonio,TX,78244,29.47746,-98.350786,Multi-Family,2.0,1.0,800.0,8712.0,1984.0,San_Antonio
+"5527-Lochmoor,---2,-San-Antonio,-TX-78244","5527 Lochmoor, # 2, San Antonio, TX 78244",San Antonio,TX,78244,29.47776,-98.350808,,,,,,,San_Antonio
+"5520-Lochmoor,-San-Antonio,-TX-78244","5520 Lochmoor, San Antonio, TX 78244",San Antonio,TX,78244,29.477456,-98.350543,Single Family,2.0,2.0,983.0,,,San_Antonio
+"5512-Lochmoor,-San-Antonio,-TX-78244","5512 Lochmoor, San Antonio, TX 78244",San Antonio,TX,78244,29.477105,-98.350544,Apartment,2.0,2.0,970.0,7144.0,1985.0,San_Antonio
+"5516-Lochmoor,-San-Antonio,-TX-78244","5516 Lochmoor, San Antonio, TX 78244",San Antonio,TX,78244,29.477293,-98.350543,Apartment,2.0,1.0,850.0,,,San_Antonio
+"5511-Lochmoor,-Apt-2,-San-Antonio,-TX-78244","5511 Lochmoor, Apt 2, San Antonio, TX 78244",San Antonio,TX,78244,29.4769,-98.350809,Single Family,2.0,1.0,800.0,8712.0,,San_Antonio
+"5705-Lochmoor,-San-Antonio,-TX-78244","5705 Lochmoor, San Antonio, TX 78244",San Antonio,TX,78244,29.477,-98.350546,,,,,,,San_Antonio
+"7002-Atherton,-San-Antonio,-TX-78244","7002 Atherton, San Antonio, TX 78244",San Antonio,TX,78244,29.476766,-98.350547,,,,,,,San_Antonio
+"5713-Lochmoor,-San-Antonio,-TX-78244","5713 Lochmoor, San Antonio, TX 78244",San Antonio,TX,78244,29.476895,-98.350546,,,,,,,San_Antonio
+"7024-Atherton,-San-Antonio,-TX-78244","7024 Atherton, San Antonio, TX 78244",San Antonio,TX,78244,29.476968,-98.349631,,,,,,,San_Antonio
+"5310-Lake,-Golden,-San-Antonio,-TX-78244","5310 Lake, Golden, San Antonio, TX 78244",San Antonio,TX,78244,29.474259,-98.351379,Single Family,2.0,1.5,1200.0,6780.0,1986.0,San_Antonio
+"5523-Lochmoor,-Apt-1,-San-Antonio,-TX-78244","5523 Lochmoor, Apt 1, San Antonio, TX 78244",San Antonio,TX,78244,29.477526,-98.350809,Multi-Family,2.0,1.0,800.0,8756.0,1984.0,San_Antonio
+"5322-Shadow-Lake-Dr,-San-Antonio,-TX-78244","5322 Shadow Lake Dr, San Antonio, TX 78244",San Antonio,TX,78244,29.474965,-98.352755,Single Family,3.0,1.5,1063.0,7440.0,1972.0,San_Antonio
+"5403-Park-Lk,-San-Antonio,-TX-78244","5403 Park Lk, San Antonio, TX 78244",San Antonio,TX,78244,29.475701,-98.349207,Single Family,3.0,1.5,1851.0,14119.0,1985.0,San_Antonio
+"6830-Blue-Lake-Dr,-San-Antonio,-TX-78244","6830 Blue Lake Dr, San Antonio, TX 78244",San Antonio,TX,78244,29.475708,-98.353449,Single Family,3.0,2.0,1039.0,6600.0,1972.0,San_Antonio
+"6826-Blue-Lake-Dr,-San-Antonio,-TX-78244","6826 Blue Lake Dr, San Antonio, TX 78244",San Antonio,TX,78244,29.475714,-98.353626,Single Family,3.0,1.5,1140.0,9350.0,1972.0,San_Antonio
+"5602-Crater-Lake-Dr,-San-Antonio,-TX-78244","5602 Crater Lake Dr, San Antonio, TX 78244",San Antonio,TX,78244,29.478096,-98.351129,Single Family,4.0,2.5,1780.0,5848.0,1974.0,San_Antonio
+"6903-Twin-Lake-Dr,-San-Antonio,-TX-78244","6903 Twin Lake Dr, San Antonio, TX 78244",San Antonio,TX,78244,29.476907,-98.352109,Single Family,3.0,2.0,1346.0,8470.0,1973.0,San_Antonio
+"6915-Trail-Lk,-San-Antonio,-TX-78244","6915 Trail Lk, San Antonio, TX 78244",San Antonio,TX,78244,29.475366,-98.350641,Single Family,3.0,2.0,1714.0,6440.0,1984.0,San_Antonio
+"6906-Indian-Lake-Dr,-San-Antonio,-TX-78244","6906 Indian Lake Dr, San Antonio, TX 78244",San Antonio,TX,78244,29.477209,-98.352111,Single Family,4.0,2.0,1810.0,8690.0,1973.0,San_Antonio
+"6930-Trail-Lk,-San-Antonio,-TX-78244","6930 Trail Lk, San Antonio, TX 78244",San Antonio,TX,78244,29.475264,-98.349627,Single Family,3.0,2.0,1232.0,6957.0,1985.0,San_Antonio
+"6838-Twin-Lake-Dr,-San-Antonio,-TX-78244","6838 Twin Lake Dr, San Antonio, TX 78244",San Antonio,TX,78244,29.476463,-98.352911,Single Family,4.0,2.0,1217.0,7920.0,1972.0,San_Antonio
+"5524-Lochmoor,-San-Antonio,-TX-78244","5524 Lochmoor, San Antonio, TX 78244",San Antonio,TX,78244,29.477641,-98.350542,Multi-Family,2.0,1.0,912.0,7144.0,1985.0,San_Antonio
+"6922-Moon-Lake-Dr,-San-Antonio,-TX-78244","6922 Moon Lake Dr, San Antonio, TX 78244",San Antonio,TX,78244,29.477939,-98.351481,Single Family,4.0,2.5,1780.0,7550.0,1974.0,San_Antonio
+"6822-Still-Lk,-San-Antonio,-TX-78244","6822 Still Lk, San Antonio, TX 78244",San Antonio,TX,78244,29.473761,-98.351954,Single Family,3.0,2.0,1744.0,6441.0,1987.0,San_Antonio
+"6906-Trail-Lk,-San-Antonio,-TX-78244","6906 Trail Lk, San Antonio, TX 78244",San Antonio,TX,78244,29.474859,-98.35063,Single Family,3.0,2.5,1730.0,6440.0,1985.0,San_Antonio
+"7006-Atherton,-San-Antonio,-TX-78244","7006 Atherton, San Antonio, TX 78244",San Antonio,TX,78244,29.476727,-98.350553,,,,,,,San_Antonio
+"5402-Park-Lk,-San-Antonio,-TX-78244","5402 Park Lk, San Antonio, TX 78244",San Antonio,TX,78244,29.475501,-98.349063,,,,,,,San_Antonio
+"5315-Lakebend-East-Dr,-San-Antonio,-TX-78244","5315 Lakebend East Dr, San Antonio, TX 78244",San Antonio,TX,78244,29.474535,-98.351155,Single Family,3.0,2.0,1572.0,6325.0,1984.0,San_Antonio
+"5511-Lochmoor,-Apt-1,-San-Antonio,-TX-78244","5511 Lochmoor, Apt 1, San Antonio, TX 78244",San Antonio,TX,78244,29.4769,-98.350809,Apartment,2.0,1.0,3202.0,8756.0,1984.0,San_Antonio
+"5709-Lochmoor,-San-Antonio,-TX-78244","5709 Lochmoor, San Antonio, TX 78244",San Antonio,TX,78244,29.476963,-98.350546,,,,,,,San_Antonio
+"5717-Lochmoor,-San-Antonio,-TX-78244","5717 Lochmoor, San Antonio, TX 78244",San Antonio,TX,78244,29.476839,-98.350546,Condo,2.0,1.0,987.0,,,San_Antonio
+"5629-Lochmoor,-San-Antonio,-TX-78244","5629 Lochmoor, San Antonio, TX 78244",San Antonio,TX,78244,29.478007,-98.350543,Condo,2.0,1.0,825.0,,,San_Antonio
+"5519-Lochmoor,-Apt-1,-San-Antonio,-TX-78244","5519 Lochmoor, Apt 1, San Antonio, TX 78244",San Antonio,TX,78244,29.47746,-98.350786,Multi-Family,2.0,1.0,800.0,8712.0,1984.0,San_Antonio
+"5515-Lochmoor,-Apt-2,-San-Antonio,-TX-78244","5515 Lochmoor, Apt 2, San Antonio, TX 78244",San Antonio,TX,78244,29.477107,-98.350814,Multi-Family,2.0,1.0,800.0,,1984.0,San_Antonio
+"7014-Atherton,-San-Antonio,-TX-78244","7014 Atherton, San Antonio, TX 78244",San Antonio,TX,78244,29.476797,-98.350174,,,,,,,San_Antonio
+"7012-Atherton,-San-Antonio,-TX-78244","7012 Atherton, San Antonio, TX 78244",San Antonio,TX,78244,29.476787,-98.350255,,,,,,,San_Antonio
+"6906-Moon-Lake-Dr,-San-Antonio,-TX-78244","6906 Moon Lake Dr, San Antonio, TX 78244",San Antonio,TX,78244,29.47796,-98.352429,Single Family,3.0,2.0,1630.0,8800.0,1973.0,San_Antonio
+"6914-Indian-Lake-Dr,-San-Antonio,-TX-78244","6914 Indian Lake Dr, San Antonio, TX 78244",San Antonio,TX,78244,29.477213,-98.351635,Single Family,3.0,2.0,1516.0,8690.0,1973.0,San_Antonio
+"6835-Indian-Lake-Dr,-San-Antonio,-TX-78244","6835 Indian Lake Dr, San Antonio, TX 78244",San Antonio,TX,78244,29.477662,-98.353047,Single Family,3.0,2.0,1795.0,8360.0,1972.0,San_Antonio
+"5515-Lochmoor,-Apt-1,-San-Antonio,-TX-78244","5515 Lochmoor, Apt 1, San Antonio, TX 78244",San Antonio,TX,78244,29.477107,-98.350814,Multi-Family,2.0,1.0,800.0,,,San_Antonio
+"5505-Roanwood,-San-Antonio,-TX-78244","5505 Roanwood, San Antonio, TX 78244",San Antonio,TX,78244,29.477157,-98.349687,Multi-Family,2.0,1.0,987.0,,,San_Antonio
+"5532-Lochmoor,-San-Antonio,-TX-78244","5532 Lochmoor, San Antonio, TX 78244",San Antonio,TX,78244,29.477966,-98.350541,Multi-Family,2.0,1.0,912.0,7797.0,1985.0,San_Antonio
+"7028-Atherton,-San-Antonio,-TX-78244","7028 Atherton, San Antonio, TX 78244",San Antonio,TX,78244,29.476808,-98.349434,Single Family,4.0,2.0,1824.0,,,San_Antonio
+"6827-Blue-Lake-Dr,-San-Antonio,-TX-78244","6827 Blue Lake Dr, San Antonio, TX 78244",San Antonio,TX,78244,29.476149,-98.353769,Single Family,3.0,1.5,1176.0,6930.0,1972.0,San_Antonio
+"6902-Quail-Lk,-San-Antonio,-TX-78244","6902 Quail Lk, San Antonio, TX 78244",San Antonio,TX,78244,29.474233,-98.350186,Single Family,3.0,2.0,1592.0,7935.0,1985.0,San_Antonio
+"7011-W-Parmer-Ln,-Austin,-TX-78729","7011 W Parmer Ln, Austin, TX 78729",Austin,TX,78729,30.450651,-97.749853,Apartment,1.0,1.0,650.0,,2000.0,Austin
+"5200-N-Lamar-Blvd,-Austin,-TX-78751","5200 N Lamar Blvd, Austin, TX 78751",Austin,TX,78751,30.320159,-97.731593,Single Family,1.0,1.0,505.0,,1984.0,Austin
+"1301-W-5th-St,-Austin,-TX-78703","1301 W 5th St, Austin, TX 78703",Austin,TX,78703,30.271746,-97.759877,Apartment,1.0,1.0,735.0,,2019.0,Austin
+"1044-Camino-Ln,-Costa,-Austin,-TX-78752","1044 Camino Ln, Costa, Austin, TX 78752",Austin,TX,78752,30.325656,-97.699362,Apartment,1.0,1.0,563.0,,1984.0,Austin
+"800-W-38th-St,-Austin,-TX-78705","800 W 38th St, Austin, TX 78705",Austin,TX,78705,30.304715,-97.741423,Apartment,1.0,1.0,678.0,,1997.0,Austin
+"8801-N-Fm-620-Rd,-Austin,-TX-78726","8801 N Fm 620 Rd, Austin, TX 78726",Austin,TX,78726,30.427063,-97.839719,Apartment,1.0,1.0,692.0,,1998.0,Austin
+"2104-E-Anderson-Ln,-Austin,-TX-78752","2104 E Anderson Ln, Austin, TX 78752",Austin,TX,78752,30.331529,-97.677648,Apartment,2.0,1.0,782.0,,1984.0,Austin
+"12430-Metric-Blvd,-Austin,-TX-78758","12430 Metric Blvd, Austin, TX 78758",Austin,TX,78758,30.41274,-97.692939,Apartment,1.0,1.0,664.0,,2006.0,Austin
+"6500-Champion-Grandview-Way,-Austin,-TX-78750","6500 Champion Grandview Way, Austin, TX 78750",Austin,TX,78750,30.36684,-97.792458,Apartment,1.0,1.0,655.0,,2004.0,Austin
+"2402-San-Gabriel-St,-Austin,-TX-78705","2402 San Gabriel St, Austin, TX 78705",Austin,TX,78705,30.288448,-97.747951,Apartment,,,,,,Austin
+"1621-E-6th-St,-Austin,-TX-78702","1621 E 6th St, Austin, TX 78702",Austin,TX,78702,30.262248,-97.726008,Apartment,0.0,1.0,393.0,43560.0,2016.0,Austin
+"1911-Willow-Creek-Dr,-Austin,-TX-78741","1911 Willow Creek Dr, Austin, TX 78741",Austin,TX,78741,30.233175,-97.727414,Apartment,1.0,1.0,660.0,,1969.0,Austin
+"1611-W-5th-St,-Austin,-TX-78703","1611 W 5th St, Austin, TX 78703",Austin,TX,78703,30.273858,-97.764246,Apartment,0.0,1.0,591.0,,2009.0,Austin
+"1720-W-Wells-Branch-Pkwy,-Austin,-TX-78728","1720 W Wells Branch Pkwy, Austin, TX 78728",Austin,TX,78728,30.440369,-97.672445,Apartment,,,,,1996.0,Austin
+"13145-N-Hwy,-183,-Austin,-TX-78750","13145 N Hwy, 183, Austin, TX 78750",Austin,TX,78750,30.442044,-97.778631,Apartment,1.0,1.0,709.0,,2007.0,Austin
+"6607-Brodie-Ln,-Austin,-TX-78745","6607 Brodie Ln, Austin, TX 78745",Austin,TX,78745,30.215883,-97.825396,Apartment,1.0,1.0,655.0,,1997.0,Austin
+"3816-S-Lamar-Blvd,-Austin,-TX-78704","3816 S Lamar Blvd, Austin, TX 78704",Austin,TX,78704,30.239108,-97.79131,Apartment,0.0,1.0,505.0,,1984.0,Austin
+"1507-Kinney-Ave,-Austin,-TX-78704","1507 Kinney Ave, Austin, TX 78704",Austin,TX,78704,30.253431,-97.766611,Apartment,,1.0,,,1982.0,Austin
+"1034-Clayton-Ln,-Austin,-TX-78723","1034 Clayton Ln, Austin, TX 78723",Austin,TX,78723,30.31971,-97.7031,Single Family,,2.0,,,1998.0,Austin
+"1403-Norwalk-Ln,-Austin,-TX-78703","1403 Norwalk Ln, Austin, TX 78703",Austin,TX,78703,30.28921,-97.7714,Apartment,1.0,1.0,682.0,,1963.0,Austin
+"811-E-11th-St,-Austin,-TX-78702","811 E 11th St, Austin, TX 78702",Austin,TX,78702,30.26942,-97.732051,Apartment,0.0,1.0,416.0,,2013.0,Austin
+"2819-Foster-Ln,-Austin,-TX-78757","2819 Foster Ln, Austin, TX 78757",Austin,TX,78757,30.356331,-97.73818,Apartment,,,,,1979.0,Austin
+"1908-W-Loop,-Apt-A,-Austin,-TX-78758","1908 W Loop, Apt A, Austin, TX 78758",Austin,TX,78758,30.372162,-97.718242,Multi-Family,2.0,1.0,977.0,,,Austin
+"6263-Mcneil-Dr,-Austin,-TX-78729","6263 Mcneil Dr, Austin, TX 78729",Austin,TX,78729,30.440315,-97.747084,Apartment,1.0,1.0,619.0,,1996.0,Austin
+"8000-Decker-Ln,-Austin,-TX-78724","8000 Decker Ln, Austin, TX 78724",Austin,TX,78724,30.308724,-97.624002,Apartment,,,,,2004.0,Austin
+"1810-Adina-St,-Unit-B,-Austin,-TX-78721","1810 Adina St, Unit B, Austin, TX 78721",Austin,TX,78721,30.283132,-97.679825,Multi-Family,3.0,2.5,1495.0,,,Austin
+"8312-Fathom-Cir,-Austin,-TX-78750","8312 Fathom Cir, Austin, TX 78750",Austin,TX,78750,30.436356,-97.7768,Apartment,,,,,1984.0,Austin
+"7224-Northeast-Dr,-Austin,-TX-78723","7224 Northeast Dr, Austin, TX 78723",Austin,TX,78723,30.321055,-97.680679,Apartment,,,,,1972.0,Austin
+"8001-S-Ih,---35,-Austin,-TX-78744","8001 S Ih, # 35, Austin, TX 78744",Austin,TX,78744,30.174784,-97.775327,Apartment,,,,,2014.0,Austin
+"9501-N-Fm-620-Rd,-Austin,-TX-78726","9501 N Fm 620 Rd, Austin, TX 78726",Austin,TX,78726,30.434316,-97.837241,Apartment,1.0,1.0,680.0,,2006.0,Austin
+"500-E-Anderson-Ln,-Austin,-TX-78752","500 E Anderson Ln, Austin, TX 78752",Austin,TX,78752,30.34206,-97.70144,Apartment,1.0,1.0,702.0,,1967.0,Austin
+"9617-Great-Hills-Trl,-Austin,-TX-78759","9617 Great Hills Trl, Austin, TX 78759",Austin,TX,78759,30.393533,-97.753775,Apartment,1.0,1.0,600.0,,1984.0,Austin
+"625-E-Stassney-Ln,-Austin,-TX-78745","625 E Stassney Ln, Austin, TX 78745",Austin,TX,78745,30.200133,-97.769697,Apartment,1.0,1.0,700.0,,2009.0,Austin
+"3621-W-Slaughter-Ln,-Austin,-TX-78749","3621 W Slaughter Ln, Austin, TX 78749",Austin,TX,78749,30.183309,-97.853186,Apartment,1.0,1.0,815.0,,2012.0,Austin
+"8805-N-Plaza-Dr,-Austin,-TX-78753","8805 N Plaza Dr, Austin, TX 78753",Austin,TX,78753,30.34965,-97.68629,Apartment,0.0,1.0,423.0,,1978.0,Austin
+"111-Sandra-Muraida-Way,-Austin,-TX-78703","111 Sandra Muraida Way, Austin, TX 78703",Austin,TX,78703,30.267449,-97.754759,Apartment,1.0,1.0,656.0,,2013.0,Austin
+"1300-Pleasant-Valley-Rd-S,-Austin,-TX-78741","1300 Pleasant Valley Rd S, Austin, TX 78741",Austin,TX,78741,30.24047,-97.719682,Apartment,,,,,1972.0,Austin
+"10600-Jollyville-Rd,-Austin,-TX-78759","10600 Jollyville Rd, Austin, TX 78759",Austin,TX,78759,30.399719,-97.749875,Apartment,1.0,1.0,677.0,,2017.0,Austin
+"460-Bastrop-Hwy-S,-Austin,-TX-78741","460 Bastrop Hwy S, Austin, TX 78741",Austin,TX,78741,30.237778,-97.688568,Apartment,3.0,2.0,981.0,,2019.0,Austin
+"7000-E-Ben-White-Blvd,-Austin,-TX-78741","7000 E Ben White Blvd, Austin, TX 78741",Austin,TX,78741,30.217479,-97.702228,Apartment,2.0,2.0,,,2016.0,Austin
+"1003-Justin-Ln,-Austin,-TX-78757","1003 Justin Ln, Austin, TX 78757",Austin,TX,78757,30.337039,-97.722252,Apartment,,,,,1984.0,Austin
+"300-West-Ave,-Austin,-TX-78701","300 West Ave, Austin, TX 78701",Austin,TX,78701,30.2686,-97.75291,Apartment,0.0,1.0,510.0,,2001.0,Austin
+"2016-Park-Bend-Dr,-Austin,-TX-78758","2016 Park Bend Dr, Austin, TX 78758",Austin,TX,78758,30.408332,-97.698735,Multi-Family,,,184900.0,475240.0,1985.0,Austin
+"6600-Ed-Bluestein-Blvd,-Austin,-TX-78723","6600 Ed Bluestein Blvd, Austin, TX 78723",Austin,TX,78723,30.305748,-97.66245,Apartment,0.0,1.0,500.0,,1985.0,Austin
+"1200-E-Parmer-Ln,-Austin,-TX-78753","1200 E Parmer Ln, Austin, TX 78753",Austin,TX,78753,30.396078,-97.652516,Apartment,0.0,1.0,602.0,,2013.0,Austin
+"700-Hearn-St,-Austin,-TX-78703","700 Hearn St, Austin, TX 78703",Austin,TX,78703,30.280987,-97.771896,Apartment,1.0,1.0,,,1974.0,Austin
+"7601-Rialto-Blvd,-Austin,-TX-78735","7601 Rialto Blvd, Austin, TX 78735",Austin,TX,78735,30.251558,-97.871263,Apartment,1.0,1.0,754.0,,2002.0,Austin
+"15510-Ranch-Road-620-Rd,-Austin,-TX-78717","15510 Ranch Road 620 Rd, Austin, TX 78717",Austin,TX,78717,30.485601,-97.736289,Apartment,,,,,2008.0,Austin
+"8701-Bluffstone-Cv,-Austin,-TX-78759","8701 Bluffstone Cv, Austin, TX 78759",Austin,TX,78759,30.390953,-97.763931,Apartment,1.0,1.0,737.0,,1998.0,Austin
+"2900-Sunridge-Dr,-Austin,-TX-78741","2900 Sunridge Dr, Austin, TX 78741",Austin,TX,78741,30.22146,-97.72628,Apartment,,,,,2001.0,Austin
+"4335-Aldine-Mail-Rd,-Houston,-TX-77039","4335 Aldine Mail Rd, Houston, TX 77039",Houston,TX,77039,29.903164,-95.329721,Apartment,,,,,1976.0,Houston
+"5151-Edloe-St,-Houston,-TX-77005","5151 Edloe St, Houston, TX 77005",Houston,TX,77005,29.72742,-95.43306,Apartment,1.0,1.0,910.0,,1999.0,Houston
+"2827-Dunvale-Rd,-Houston,-TX-77063","2827 Dunvale Rd, Houston, TX 77063",Houston,TX,77063,29.73379,-95.51258,Apartment,1.0,1.0,659.0,,2016.0,Houston
+"872-Bettina-Ct,-Houston,-TX-77024","872 Bettina Ct, Houston, TX 77024",Houston,TX,77024,29.77818,-95.53896,Apartment,1.0,1.0,610.0,,1967.0,Houston
+"10000-Hammerly-Blvd,-Houston,-TX-77080","10000 Hammerly Blvd, Houston, TX 77080",Houston,TX,77080,29.812977,-95.540886,Apartment,,,,,1974.0,Houston
+"1755-Wyndale-St,-Houston,-TX-77030","1755 Wyndale St, Houston, TX 77030",Houston,TX,77030,29.702969,-95.394829,Apartment,1.0,1.0,941.0,,2015.0,Houston
+"8300-El-Mundo-St,-Houston,-TX-77054","8300 El Mundo St, Houston, TX 77054",Houston,TX,77054,29.68368,-95.38669,Apartment,1.0,1.0,770.0,,1989.0,Houston
+"1901-Cullen-Blvd,-Houston,-TX-77023","1901 Cullen Blvd, Houston, TX 77023",Houston,TX,77023,29.734194,-95.340729,Apartment,4.0,4.0,1552.0,,2017.0,Houston
+"2630-Bissonnet-St,-Houston,-TX-77005","2630 Bissonnet St, Houston, TX 77005",Houston,TX,77005,29.72623,-95.42014,Apartment,0.0,1.0,491.0,,2014.0,Houston
+"16457-El-Camino-Real,-Houston,-TX-77062","16457 El Camino Real, Houston, TX 77062",Houston,TX,77062,29.55885,-95.12286,Apartment,2.0,1.5,995.0,,1963.0,Houston
+"3433-W-Dallas-St,-Houston,-TX-77019","3433 W Dallas St, Houston, TX 77019",Houston,TX,77019,29.75669,-95.40135,Apartment,1.0,1.0,714.0,,1974.0,Houston
+"2717-Stoney-Brook-Dr,-Houston,-TX-77063","2717 Stoney Brook Dr, Houston, TX 77063",Houston,TX,77063,29.73556,-95.50463,Apartment,,,,,1971.0,Houston
+"3003-Memorial-Ct,-Houston,-TX-77007","3003 Memorial Ct, Houston, TX 77007",Houston,TX,77007,29.76406,-95.39007,Apartment,1.0,1.0,707.0,,2001.0,Houston
+"8345-Park-Place-Blvd,-Houston,-TX-77017","8345 Park Place Blvd, Houston, TX 77017",Houston,TX,77017,29.692894,-95.268446,Apartment,1.0,1.0,739.0,,1965.0,Houston
+"3133-Buffalo-Speedway,-Houston,-TX-77098","3133 Buffalo Speedway, Houston, TX 77098",Houston,TX,77098,29.735252,-95.428351,Apartment,1.0,1.0,800.0,,1990.0,Houston
+"10001-Fondren-Rd,-Houston,-TX-77096","10001 Fondren Rd, Houston, TX 77096",Houston,TX,77096,29.67188,-95.50824,Apartment,,,,,1978.0,Houston
+"6800-Shavelson-St,-Houston,-TX-77055","6800 Shavelson St, Houston, TX 77055",Houston,TX,77055,29.7872,-95.46893,Apartment,2.0,2.0,1274.0,,,Houston
+"8330-Willow-Place-Dr-S,-Houston,-TX-77070","8330 Willow Place Dr S, Houston, TX 77070",Houston,TX,77070,29.95947,-95.55701,Apartment,,,,,1982.0,Houston
+"4200-Cypress-Creek-Pkwy,-Houston,-TX-77068","4200 Cypress Creek Pkwy, Houston, TX 77068",Houston,TX,77068,29.99146,-95.49299,Apartment,1.0,1.0,1274.0,,1999.0,Houston
+"2800-S-Dairy-Ashford-Rd,-Houston,-TX-77082","2800 S Dairy Ashford Rd, Houston, TX 77082",Houston,TX,77082,29.73277,-95.60617,Apartment,1.0,1.0,519.0,,1981.0,Houston
+"17630-Wayforest-Dr,-Houston,-TX-77060","17630 Wayforest Dr, Houston, TX 77060",Houston,TX,77060,29.95452,-95.39153,Apartment,1.0,1.0,876.0,,1983.0,Houston
+"6464-E-Sam-Houston-Pkwy-N,-Houston,-TX-77049","6464 E Sam Houston Pkwy N, Houston, TX 77049",Houston,TX,77049,29.83467,-95.16718,Apartment,,,,,2008.0,Houston
+"19321-Park-Row,-Houston,-TX-77084","19321 Park Row, Houston, TX 77084",Houston,TX,77084,29.79052,-95.70917,Single Family,0.0,,,,1984.0,Houston
+"502-S-Post-Oak-Ln,-Houston,-TX-77056","502 S Post Oak Ln, Houston, TX 77056",Houston,TX,77056,29.76381,-95.46416,Apartment,1.0,1.0,694.0,,2014.0,Houston
+"12300-Fleming-Dr,-Houston,-TX-77013","12300 Fleming Dr, Houston, TX 77013",Houston,TX,77013,29.77434,-95.21975,Single Family,,,,,,Houston
+"7900-N-Stadium-Dr,-Unit-259,-Houston,-TX-77030","7900 N Stadium Dr, Unit 259, Houston, TX 77030",Houston,TX,77030,29.695284,-95.409558,Condo,2.0,2.0,1137.0,230942.0,1979.0,Houston
+"2121-Midlane-St,-Houston,-TX-77027","2121 Midlane St, Houston, TX 77027",Houston,TX,77027,29.7463,-95.44958,Apartment,,,,,2010.0,Houston
+"2315B-Bevis-St,-Unit-B,-Houston,-TX-77008","2315B Bevis St, Unit B, Houston, TX 77008",Houston,TX,77008,29.807084,-95.422682,Single Family,3.0,2.5,2467.0,1995.0,2016.0,Houston
+"8255-Sunbury-Ln,-Houston,-TX-77095","8255 Sunbury Ln, Houston, TX 77095",Houston,TX,77095,29.89694,-95.62959,Apartment,1.0,1.0,600.0,,1983.0,Houston
+"17331-Red-Oak-Dr,-Apt-18,-Houston,-TX-77090","17331 Red Oak Dr, Apt 18, Houston, TX 77090",Houston,TX,77090,30.023638,-95.44866,Condo,1.0,1.0,714.0,94103.0,1978.0,Houston
+"603-Euclid-St,-Units-1-&-2,-Houston,-TX-77009","603 Euclid St, Units 1 & 2, Houston, TX 77009",Houston,TX,77009,29.785518,-95.378019,Multi-Family,2.0,1.0,1211.0,5001.0,1920.0,Houston
+"6400-W-Bellfort-St,-Houston,-TX-77035","6400 W Bellfort St, Houston, TX 77035",Houston,TX,77035,29.656226,-95.503467,Townhouse,,,,,1978.0,Houston
+"3603-Chenevert-St,-Houston,-TX-77004","3603 Chenevert St, Houston, TX 77004",Houston,TX,77004,29.73434,-95.37236,Apartment,1.0,1.0,780.0,,2007.0,Houston
+"450-Normandy-St,-Houston,-TX-77015","450 Normandy St, Houston, TX 77015",Houston,TX,77015,29.79291,-95.20328,Apartment,,,,,1984.0,Houston
+"12707-Bellaire-Blvd,-Houston,-TX-77072","12707 Bellaire Blvd, Houston, TX 77072",Houston,TX,77072,29.70255,-95.60652,Apartment,,,,,1981.0,Houston
+"10950-Briar-Forest-Dr,-Houston,-TX-77042","10950 Briar Forest Dr, Houston, TX 77042",Houston,TX,77042,29.74879,-95.56849,Apartment,,,660.0,,1974.0,Houston
+"8181-El-Mundo-St,-Houston,-TX-77054","8181 El Mundo St, Houston, TX 77054",Houston,TX,77054,29.68291,-95.38463,Apartment,2.0,2.0,1241.0,,1995.0,Houston
+"14800-Memorial-Dr,-Houston,-TX-77079","14800 Memorial Dr, Houston, TX 77079",Houston,TX,77079,29.7727,-95.61136,Apartment,1.0,1.5,989.0,,2016.0,Houston
+"2255-Eldridge-Pkwy,-Houston,-TX-77077","2255 Eldridge Pkwy, Houston, TX 77077",Houston,TX,77077,29.74172,-95.62337,Apartment,1.0,1.0,810.0,,1998.0,Houston
+"5105-Airline-Dr,-Houston,-TX-77022","5105 Airline Dr, Houston, TX 77022",Houston,TX,77022,29.840098,-95.385124,Apartment,2.0,1.0,950.0,,2004.0,Houston
+"9757-Pine-Lake-Dr,-Houston,-TX-77055","9757 Pine Lake Dr, Houston, TX 77055",Houston,TX,77055,29.78924,-95.53189,Apartment,2.0,2.0,1166.0,,2007.0,Houston
+"7315-Brompton-St,-Houston,-TX-77025","7315 Brompton St, Houston, TX 77025",Houston,TX,77025,29.70238,-95.42187,Apartment,1.0,1.0,505.0,,1970.0,Houston
+"611-N-Dairy-Ashford-Rd,-Houston,-TX-77079","611 N Dairy Ashford Rd, Houston, TX 77079",Houston,TX,77079,29.76885,-95.60673,Apartment,2.0,2.0,,,2015.0,Houston
+"2151-S-Kirkwood-Dr,-Houston,-TX-77077","2151 S Kirkwood Dr, Houston, TX 77077",Houston,TX,77077,29.74372,-95.58726,Apartment,,,,,1982.0,Houston
+"1920-Hollister-St,-Houston,-TX-77080","1920 Hollister St, Houston, TX 77080",Houston,TX,77080,29.80841,-95.5056,Apartment,1.0,1.0,,,2018.0,Houston
+"3833-Cummins-St,-Houston,-TX-77027","3833 Cummins St, Houston, TX 77027",Houston,TX,77027,29.73033,-95.43694,Apartment,0.0,1.0,685.0,,2007.0,Houston
+"10070-Westpark-Dr,-Houston,-TX-77042","10070 Westpark Dr, Houston, TX 77042",Houston,TX,77042,29.72345,-95.54334,Apartment,1.0,1.0,623.0,,1977.0,Houston
+"14504-Briar-Forest-Dr,-Houston,-TX-77077","14504 Briar Forest Dr, Houston, TX 77077",Houston,TX,77077,29.75708,-95.63928,Apartment,1.0,1.0,817.0,,1999.0,Houston
+"13155-Woodforest-Blvd,-Houston,-TX-77015","13155 Woodforest Blvd, Houston, TX 77015",Houston,TX,77015,29.7939,-95.19182,Apartment,,,,,1982.0,Houston
+"16755-W-Lake-Houston-Pkwy,-Houston,-TX-77044","16755 W Lake Houston Pkwy, Houston, TX 77044",Houston,TX,77044,29.96478,-95.17079,Apartment,1.0,1.0,759.0,46609.0,2016.0,Houston
